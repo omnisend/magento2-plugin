@@ -2,7 +2,7 @@
 
 > **Warning**
 >
-> Starting from July 11 2023, Omnisend no longer supports this plugin. You're free to use the plugin and its source code as it is or fork it and modify it as needed. However, we encourage you to use [our API](https://api-docs.omnisend.com/) to set up an integration with Omnisend for your use case.
+> Starting from April 1st, 2021, Omnisend no longer supports this plugin. You're free to use the plugin and its source code as it is or fork it and modify it as needed. However, we encourage you to use [our API](https://api-docs.omnisend.com/) to set up an integration with Omnisend for your use case.
 
 ## Overview
 
