@@ -1,6 +1,8 @@
 # Omnisend Magento 2.x plugin
 
-**Note**: Starting from July 11 of 2023 this plugin is no longer supported by Omnisend. You are free to use the plugin and its source code “as-is” or make a fork to modify it as needed. Alternatively we encourage you to use [our API](https://api-docs.omnisend.com/) to establish an integration with Omnisend for your use case.
+> **Warning**
+>
+> Starting from April 1st, 2021, Omnisend no longer supports this plugin. You're free to use the plugin and its source code as it is or fork it and modify it as needed. However, we encourage you to use [our API](https://api-docs.omnisend.com/) to set up an integration with Omnisend for your use case.
 
 ## Overview
 
@@ -23,9 +25,9 @@ Our open-source code for Magento 2 integration will automatically sync your cust
 - Email, SMS and push notifications available for campaigns and automations
 - Pre-built automation workflows for Cart Abandonment, Browse Abandonment, Product Abandonment, Welcome Series, Order Confirmation, and many more
 - Visual, no-code Automation Editor to edit pre-built workflows or create your custom ones
-- Email and SMS signup forms: signup boxes,  pop-ups (including exit-intent), interactive wheel of fortune, landing pages
+- Email and SMS signup forms: signup boxes, pop-ups (including exit-intent), interactive wheel of fortune, landing pages
 - Advanced contact segmentation based on customer lifecycle stages, shopping history, profile data, engagement and other variables
-- Facebook & Google audience sync 
+- Facebook & Google audience sync
 - Drag & drop email content editor
 - Product Recommender, including Personalized Product Recommendations
 - Product Picker
@@ -34,7 +36,6 @@ Our open-source code for Magento 2 integration will automatically sync your cust
 - Discount Coupons
 - Sales dashboard and advanced performance reporting
 - Email templates and many more smart features
-
 
 ## Compatibility
 
