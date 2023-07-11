@@ -1,5 +1,7 @@
 # Omnisend Magento 2.x plugin
 
+_Note_: Starting from July 11 2023 this plugin is no longer supported by Omnisend. You are free to use the plugin and its source code “as-is” or make a fork to modify it as needed. Alternatively we encourage you to use [our API](https://api-docs.omnisend.com/) to establish an integration with Omnisend for your use case.
+
 ## Overview
 
 [Omnisend](https://www.omnisend.com/) enables more than 50,000 eCommerce marketers to increase their sales with highly relevant messaging. Built for nimble, high-growth ecommerce brands, Omnisend is an omnichannel marketing automation platform with fully integrated email, SMS and push notifications as well as the ability to sync audiences with Facebook & Google ads.
