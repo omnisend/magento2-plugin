@@ -1,6 +1,6 @@
 # Omnisend Magento 2.x plugin
 
-**Note**: Starting from July 11 2023 this plugin is no longer supported by Omnisend. You are free to use the plugin and its source code “as-is” or make a fork to modify it as needed. Alternatively we encourage you to use [our API](https://api-docs.omnisend.com/) to establish an integration with Omnisend for your use case.
+**Note**: Starting from July 11 of 2023 this plugin is no longer supported by Omnisend. You are free to use the plugin and its source code “as-is” or make a fork to modify it as needed. Alternatively we encourage you to use [our API](https://api-docs.omnisend.com/) to establish an integration with Omnisend for your use case.
 
 ## Overview
 
